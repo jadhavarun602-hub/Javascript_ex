@@ -1,3 +1,5 @@
+// Write a program to check if a number is positive or negative.
+
 let num = 7;
 
 if (num < 0) {
