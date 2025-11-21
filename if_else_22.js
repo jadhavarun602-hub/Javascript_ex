@@ -1,7 +1,7 @@
 // Check if the user entered correct OTP.
 
-let OTP = 565654;
-let otp = 565654;
+let OTP = 565652;
+let otp = 565652;
 
 if (otp === OTP ) {
     console.log("OTP is matched");
